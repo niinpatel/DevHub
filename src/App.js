@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Me from "./Me"
-import NameForm from './learn/formBasics';
+import NameForm from "./learn/formBasics";
 
 class App extends Component {
 
